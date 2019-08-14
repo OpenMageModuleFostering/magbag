@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>MagBag</name>
-    <version>1.2</version>
+    <version>1.3</version>
     <stability>stable</stability>
     <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
     <channel>community</channel>
@@ -11,7 +11,7 @@
     <notes>this extension is used for adding product to cart by using bag container.</notes>
     <authors><author><name>Amit Shah</name><user>auto-converted</user><email>amitshah2007@gmail.com</email></author></authors>
     <date>2010-04-10</date>
-    <time>05:24:53</time>
+    <time>05:47:47</time>
     <contents><target name="mageskin"><dir name="frontend"><dir name="default"><dir name="default"><dir name="css"><file name="jquery.fancybox-1.3.1.css" hash="67e3c342885fc13fc8aaf0d915ccbfc2"/></dir><dir name="images"><file name="fancybox-x.png" hash="168696d8a694214090ef90e029cdf393"/><file name="fancybox-y.png" hash="36a58859beb9a6b19322a37466b9f78e"/><file name="fancybox.png" hash="11e57e492ee0311540967cc7a1e6e3e2"/><file name="fancy_close.png" hash="6e2879a324a76e9972ebc98201aae1d8"/><file name="fancy_loading.png" hash="b1d54c240cf06e7f41e372d56919b738"/><file name="fancy_nav_left.png" hash="3f3e406102152cd8236383568a40ba35"/><file name="fancy_nav_right.png" hash="216e4bde5bddeeaa60dc3d692890a68e"/><file name="fancy_shadow_e.png" hash="fd4f491080d29fade5080877f1ba4c8b"/><file name="fancy_shadow_n.png" hash="18cde16379b2ceadef714d9b346d09ec"/><file name="fancy_shadow_ne.png" hash="63adf788acf193d4e4f3642d7d793125"/><file name="fancy_shadow_nw.png" hash="c820c878aedb7a7f9ebd7135a58e7c65"/><file name="fancy_shadow_s.png" hash="9b9e5c888028aaef40fe5b6a363f1e29"/><file name="fancy_shadow_se.png" hash="a8afd5a008884380ee712d177105268f"/><file name="fancy_shadow_sw.png" hash="f81cc0fee5581d76ad3cebe47e7e791b"/><file name="fancy_shadow_w.png" hash="59b0e63eb059e58d932cfd53da4d87e6"/><file name="fancy_title_left.png" hash="1582ac2d3bef6a6445bf02ceca2741cd"/><file name="fancy_title_main.png" hash="38dad6c1ed4bdc81c0bec721b2deb8c2"/><file name="fancy_title_over.png" hash="b886fd165d4b7ac77d41fb52d87ffc60"/><file name="fancy_title_right.png" hash="6cbe0c935511e7f9a2555ccb6a7324c4"/></dir></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="page.xml" hash="479afa7e7e79bb8e16b54bc4e42a330e"/></dir><dir name="template"><dir name="catalog"><dir name="product"><file name="list.phtml" hash="631e24701fbefb4a1315c29e02e1a3fa"/></dir></dir></dir></dir></dir></dir></target><target name="mage"><dir name="js"><dir name="varien"><file name="interface.js" hash="148ec7aaeb7a75d43cc34e02768caf9c"/><file name="jquery.fancybox-1.3.1.js" hash="8eeb837e2a084703f5f1c413aa4d8845"/><file name="jquery.js" hash="92d4f1412222f2dc12627ab42b66fc1c"/></dir></dir></target><target name="magecore"><dir name="Mage"><dir name="Checkout"><dir name="controllers"><file name="CartController.php" hash="9c8ffe1b7969f2f70f205c480446786e"/></dir></dir></dir></target></contents>
     <compatible/>
     <dependencies/>
