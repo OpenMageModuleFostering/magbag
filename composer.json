@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/MagBag",
+    "type": "magento-module",
+    "license": "Extension-license-name-(OSL-v3.0)",
+    "homepage": "",
+    "description": "This facilitates you to bag your products, simply by drag & drop of the product image into your bag.",
+    "authors": [
+    {
+        "name": "Amit Shah",
+        "email": "amitshah2007@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
